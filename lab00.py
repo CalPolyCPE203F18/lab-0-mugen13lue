@@ -4,7 +4,7 @@ def main():
    y = 'hello'
    z = 9.8
     
-   # printing the variables
+    # printing the variables
    print('x:', x, 'y:', y, 'z:', z)
    
    # a list (make an array in java)
